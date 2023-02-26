@@ -1,0 +1,23 @@
+{
+  "name": "ArbitrumChain",
+  "logoURI": "https://arbiscan.io/images/svg/brands/arbitrum.svg?v=1.3",
+  "keywords": [
+    "ArbitrumChain"
+  ],
+  "timestamp": "2023-02-26T00:00:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 42161,
+      "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://arbiscan.io/token/images/centre-usdc_28.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
